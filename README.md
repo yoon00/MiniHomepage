@@ -17,5 +17,8 @@ buy.md 파일 추가
 ## 푸터 추가
 - footer.md 추가
 
+## search 추가
+- serach.md 추가
+
 ## sidebar 추가
 - sidebar.md 추가
